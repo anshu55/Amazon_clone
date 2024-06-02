@@ -35,7 +35,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Project Features
 - *Product Listing*: Displays a list of products with their details.
-- *Search Functionality*: Allows users to search for products.
 - *Shopping Cart*: Users can add products to the cart and view their selections.
 - *Checkout Process*: Simulates a basic checkout process.
 - *Stripe Payment Processing*: Handles secure payments using the Stripe API.
