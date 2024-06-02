@@ -2,6 +2,8 @@
 
 ## Introduction
 Amazon_clone is a student project designed to clone basic functionalities of the Amazon e-commerce platform. This project aims to demonstrate the use of React for building dynamic and responsive web applications.
+I can't publish this project using Firebase because I utilize Firebase Cloud Functions, which require a premium plan for deployment.
+
 ## Server Link
 [Link](https://anshu55.github.io/Amazon_clone/)
 
