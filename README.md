@@ -2,6 +2,8 @@
 
 ## Introduction
 Amazon_clone is a student project designed to clone basic functionalities of the Amazon e-commerce platform. This project aims to demonstrate the use of React for building dynamic and responsive web applications.
+## Server Link
+[Link](https://anshu55.github.io/Amazon_clone/)
 
 ## Bootstrapped with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
